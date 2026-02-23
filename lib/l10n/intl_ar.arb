@@ -1,0 +1,93 @@
+{
+    "@@locale": "ar",
+    "language": "اللغة",
+    "@language": {
+      "description": "Label for selecting the language"
+    },
+    "mode": "المظهر",
+    "@mode": {
+      "description": "Label for selecting the theme or appearance mode"
+    },
+    "FontSize": "حجم الخط",
+    "@FontSize": {
+      "description": "Label for adjusting the font size"
+    },
+    "A": "أ",
+    "@A": {
+      "description": "Represents the letter A for font size scaling"
+    },
+    "ShowClock": "إظهار الساعة",
+    "@ShowClock": {
+      "description": "Toggle for showing the clock on the interface"
+    },
+    "keepScreen": "ابق الشاشة مضاءة أثناء القراءة",
+    "@keepScreen": {
+      "description": "Toggle for keeping the screen on while reading"
+    },
+    "notification": "الإشعارات",
+    "@notification": {
+      "description": "Label for managing notifications"
+    },
+    "reading": "القرءة",
+    "@reading": {
+      "description": "Label for reading section, like Quran reading"
+    },
+    "kahfNotification": "قراءة الكهف كل جمعة",
+    "@kahfNotification": {
+      "description": "Notification reminder to read Surah Al-Kahf every Friday"
+    },
+    "quran": "القرآن",
+    "@quran": {
+      "description": "Label for Quran section"
+    },
+    "athkar": "الأذكار",
+    "@athkar": {
+      "description": "Label for the Athkar (daily remembrances)"
+    },
+    "qibla": "القبلة",
+    "@qibla": {
+      "description": "Label for Qibla direction"
+    },
+    "currentPray": "الصلاة الحالية",
+    "@currentPray": {
+      "description": "Displays the current prayer name"
+    },
+    "nextPray": "الصلاة القادمة",
+    "@nextPray": {
+      "description": "Displays the next upcoming prayer"
+    },
+    "azan": "ألاذان",
+    "@azan": {
+      "description": "Label for the Azan (call to prayer)"
+    },
+    "eqama": "الإقامة",
+    "@eqama": {
+      "description": "Label for the Iqama (second call to prayer)"
+    },
+    "prayertime": "الفجر:الظهر:العصر:المغرب:العشاء",
+    "@prayertime": {
+      "description": "Prayer times for Fajr, Dhuhr, Asr, Maghrib, Isha"
+    },
+    "hekma": "الصلاة نور في الظلمات، وجنة في الدنيا، وشفيع يوم القيامة",
+    "@hekma": {
+      "description": "A wisdom quote related to prayer"
+    },
+    "prayerTime": "مواقيت\nالصلاة",
+    "@prayerTime": {
+      "description": "Label for the prayer times screen"
+    },
+    "prayNotification": "تنبيهات أوقات الصلاة",
+    "@prayNotification": {
+      "description": "Label for prayer time notifications"
+    },
+    "lastRead": "اخر ماتم قرأتة",
+    "@lastRead": {
+      "description": "Label for displaying the last read Quran verse or content"
+    },
+    "verse": "الأية رقم : ",
+    "@verse": {
+      "description": "Displays the current verse number"
+    }
+   
+  }
+  
